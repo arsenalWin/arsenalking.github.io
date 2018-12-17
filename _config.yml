@@ -23,6 +23,7 @@ description: 愿在圆梦的焰火下，与你欣然相见
 
 # List of links in the navigation bar
 navbar-links:
+  博客: "index"
   归档: "tags"
   关于我: "aboutme"
 
